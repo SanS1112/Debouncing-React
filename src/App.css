@@ -1,0 +1,21 @@
+input{
+    position: relative;
+    top:200px;
+    left:460px;
+    width:400px;
+    height:40px;
+    border-radius: 15px;
+    font-size: large;
+    background-color: greenyellow;
+}
+
+h2 {
+     position: relative;
+    top:190px;
+    left:550px;
+}
+h3{
+    position: relative;
+    top:220px;
+    left:620px; 
+}
